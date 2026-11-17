@@ -1,0 +1,24 @@
+title: "AI智能体那些不可小觑的细节（基础篇）"
+description: "版权所有"
+lang: zh-CN
+
+# GitHub Pages builds this with the default gem set, which includes
+# jekyll-remote-theme -- no GitHub Actions workflow needed.
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# If this repo is "<your-username>.github.io", leave baseurl empty.
+# If it's any other repo name (e.g. "ai-agent-book"), set:
+#   baseurl: "/ai-agent-book"
+baseurl: "/Nuts-and-Bolts-of-Agent"
+
+color_scheme: light
+search_enabled: true
+nav_sort: case_sensitive
+back_to_top: true
+back_to_top_text: "回到顶部"
+
+aux_links:
+  "下载 EPUB / PDF":
+    - "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/releases"
