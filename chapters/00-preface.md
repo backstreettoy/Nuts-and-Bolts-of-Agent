@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "自序——瓶颈只会向上迁移"
-nav_order: 1
+nav_order: 20
 ---
 
 # 自序——瓶颈只会向上迁移
